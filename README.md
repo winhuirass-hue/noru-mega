@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img/logo.svg" alt="Noru Mega">
+  <h1 align="center">Noru Mega Desktop</h1>
 </p>
 
 <p align="center">
